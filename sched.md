@@ -66,7 +66,7 @@
 
 **Трансляция:** https://m1p.org/go_zoom  
 
-**Материалы:** https://bit.ly/1bCmE3Z
+**Материалы:** https://github.com/MelLain/mipt-python
 
 ### Особенности практического использования нейронных сетей
 
