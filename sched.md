@@ -30,7 +30,9 @@
 
 **Контакт:** ekatorlova@yandex.ru
 
-**Трансляция:** https://teams.microsoft.com/l/meetup-join/19%3a83290cabec0d4c878680253ef2993acd%40thread.tacv2/1604506622496?context=%7b%22Tid%22%3a%2267031d72-445a-40e5-84c0-56a0e6efd213%22%2c%22Oid%22%3a%222aae35f8-0c8a-4722-9fdd-c54d80b3d809%22%7d
+**Трансляция:** https://us02web.zoom.us/j/86710154963 
+
+Идентификатор конференции: 867 1015 4963
 
 # Четверг
 
